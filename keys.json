@@ -1,0 +1,26 @@
+{
+    "existing_key1": {
+        "uses": 1,
+        "amount": 100,
+        "type": "offline",
+        "start": 0
+    },
+    "existing_key2": {
+        "uses": 5,
+        "amount": 50,
+        "type": "online",
+        "start": 10
+    },
+    "new_key": {
+        "uses": 1,
+        "amount": 20,
+        "type": "offline",
+        "start": 0
+    },
+    "GK1O0INf": {
+        "uses": 0,
+        "amount": 20,
+        "type": "offline",
+        "start": 0
+    }
+}
